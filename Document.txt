@@ -1,7 +1,11 @@
 NeTris 0.03
 Új sor kerül bele a Pc-n
 uj sor kerül bele a linuxon
+<<<<<<< HEAD
 
 És egy sor megint a linuxtól
 
+=======
+megint beleírok pc-n
+>>>>>>> 580fb8e13acfbc184c4fe75eba08feaa4c193e88
 
