@@ -1,11 +1,3 @@
 NeTris 0.03
-<<<<<<< HEAD
-uj sor kerül bele a linuxon
-=======
 Új sor kerül bele a Pc-n
-A merge után mia csöcs ez itt
-
->>>>>>> e98b6cea6cf5d926f6fc66720877474bc8373fd9
-
-Ez a változás a visszahozható
 
