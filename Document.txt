@@ -2,4 +2,6 @@ NeTris 0.03
 Új sor kerül bele a Pc-n
 uj sor kerül bele a linuxon
 
+És egy sor megint a linuxtól
+
 
