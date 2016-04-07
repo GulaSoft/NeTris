@@ -1,1 +1,2 @@
 NeTris 0.03
+uj sor kerül bele a linuxon
